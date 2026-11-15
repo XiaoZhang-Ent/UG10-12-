@@ -104,3 +104,32 @@ UG10-12角色中文快捷键角色，主要以中文拼音的首字母为快捷�
   </colgroup>
 </table>
 
+<h4>测量</h4>
+<table>
+  <tbody>
+    <tr>
+      <td>指令名称</td>
+      <td>快捷键</td>
+    </tr>
+    <tr>
+      <td>测量距离</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>测量角度</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>几何属性</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>测量体</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
