@@ -81,3 +81,26 @@ UG10-12角色中文快捷键角色，主要以中文拼音的首字母为快捷�
     <col>
   </colgroup>
 </table>
+
+<h3>曲面</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>指令名称</td>
+      <td>快捷键</td>
+    </tr>
+    <tr>
+      <td>通过曲线网格</td>
+      <td>M</td>
+    </tr>
+    <tr>
+      <td>艺术曲面</td>
+      <td>N</td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
