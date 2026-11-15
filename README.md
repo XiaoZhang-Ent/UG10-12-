@@ -1,4 +1,68 @@
 # UG10-12-
-UG10-12角色中文快捷键角色
+UG10-12角色中文快捷键角色，主要以中文拼音的首字母为快捷键主体
 
 <h1>键盘快捷指令</h1>
+<h3>特征</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>指令名称</td>
+      <td>快捷键</td>
+    </tr>
+    <tr>
+      <td>拉伸</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>旋转</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>拔模</td>
+      <td>B</td>
+    </tr>
+<tr>
+  <td>拆分体</td>
+  <td>C</td>
+</tr>
+<tr>
+  <td>合并</td>
+  <td>H</td>
+</tr>
+<tr>
+  <td>求差/减去</td>
+  <td>J</td>
+</tr>
+<tr>
+  <td>加厚</td>
+  <td>G</td>
+</tr>
+<tr>
+  <td>倒斜角</td>
+  <td>D</td>
+</tr>
+<tr>
+  <td>边倒圆</td>
+  <td>Y</td>
+</tr>
+<tr>
+  <td>缝合</td>
+  <td>F</td>
+</tr>
+<tr>
+  <td>偏置面</td>
+  <td>P</td>
+</tr>
+
+
+
+
+
+
+    
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+</table>
