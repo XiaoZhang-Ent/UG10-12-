@@ -75,10 +75,6 @@ UG10-12角色中文快捷键角色，主要以中文拼音的首字母为快捷�
       <td>删除面</td>
       <td>S</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
   <colgroup>
     <col>
