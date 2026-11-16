@@ -53,6 +53,10 @@ UG10-12角色中文快捷键角色，主要以中文拼音的首字母为快捷�
   <td>偏置面</td>
   <td>P</td>
 </tr>
+    <tr>
+      <td>包容体</td>
+      <td>K</td>
+    </tr>
   </tbody>
   <colgroup>
     <col>
